@@ -8,7 +8,7 @@ A simple command-line tool to fetch and display recent GitHub activity for any p
 
 ## Installation
 
-1. Clone or download the repository:
+1. Clone or download the repository from **https://github.com/Nosawkid/github-api**:
    ```bash
    git clone https://github.com/Nosawkid/github-api.git
    cd github-api
