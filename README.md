@@ -1,5 +1,7 @@
 # GitHub Activity CLI
 
+> This project is part of the [roadmap.sh GitHub User Activity challenge](https://roadmap.sh/projects/github-user-activity).
+
 A simple command-line tool to fetch and display recent GitHub activity for any public user.
 
 ## Prerequisites
@@ -8,7 +10,7 @@ A simple command-line tool to fetch and display recent GitHub activity for any p
 
 ## Installation
 
-1. Clone or download the repository from **https://github.com/Nosawkid/github-api**:
+1. Clone or download the repository:
    ```bash
    git clone https://github.com/Nosawkid/github-api.git
    cd github-api
